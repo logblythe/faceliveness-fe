@@ -68,7 +68,7 @@ function FaceSearch() {
         <Flex direction={"column"}>
           <Loader size="small" variation="linear" />
           <Heading width="30vw" level={5}>
-            Indexing your face
+            Searching
           </Heading>
         </Flex>
       ) : null}
